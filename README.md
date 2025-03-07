@@ -21,7 +21,7 @@ cd code-reviewer
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [shravanjoshi](https://github.com/shravanjoshi).
+For any questions or suggestions, please contact [shravanjoshi](https://github.com/shravanjoshi).
 
 ---
 
